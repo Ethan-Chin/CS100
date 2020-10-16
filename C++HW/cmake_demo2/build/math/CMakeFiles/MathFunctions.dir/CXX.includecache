@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/math/funny.cpp
+funny.h
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/math/funny.h
+
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/math/funny.h
+iostream
+-
+

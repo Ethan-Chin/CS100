@@ -1,0 +1,14 @@
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/CMakeFiles/install/strip.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/CMakeFiles/edit_cache.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/CMakeFiles/Demo.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/CMakeFiles/list_install_components.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/CMakeFiles/install/local.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/CMakeFiles/rebuild_cache.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/CMakeFiles/install.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/math/CMakeFiles/install/strip.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/math/CMakeFiles/edit_cache.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/math/CMakeFiles/MathFunctions.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/math/CMakeFiles/rebuild_cache.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/math/CMakeFiles/list_install_components.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/math/CMakeFiles/install/local.dir
+/mnt/x/Users/10269/File/test/C++HW/cmake_demo2/build/math/CMakeFiles/install.dir

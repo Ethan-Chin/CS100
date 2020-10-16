@@ -1,0 +1,3 @@
+/mnt/x/Users/10269/File/test/C++HW/HW7_demo/build/CMakeFiles/rebuild_cache.dir
+/mnt/x/Users/10269/File/test/C++HW/HW7_demo/build/CMakeFiles/1.dir
+/mnt/x/Users/10269/File/test/C++HW/HW7_demo/build/CMakeFiles/edit_cache.dir
